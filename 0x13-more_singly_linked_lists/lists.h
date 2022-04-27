@@ -1,4 +1,4 @@
-ifndef _LISTS_
+#ifndef _LISTS_
 #define _LISTS_
 
 #include <stdio.h>
@@ -10,7 +10,7 @@ ifndef _LISTS_
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Holberton project
+ * for Alx project
  */
 typedef struct listint_s
 {
